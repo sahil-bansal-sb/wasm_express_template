@@ -12,6 +12,7 @@ Integrated Template of, [express generator](https://expressjs.com/en/starter/gen
 <br>
 
  - **For Practice purpose**: Steps:
+ 
          1. Clone the Repo
          2. Change `mainapp/src/` according to requirement.
          3. In `mainapp` run command `wasm-pack build`, it'll create `mainapp/pkg` directory in it.
