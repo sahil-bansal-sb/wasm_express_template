@@ -3,8 +3,6 @@ Integrated Template of, [express generator](https://expressjs.com/en/starter/gen
 
 **:warning: Under Construction**
 
-#### **Note:**  Just remember, its just for practice purposes, if same kind of stuff is required by you, i have also mentioned the steps to create same structure with your own specifications.
-
 ## Discription
 
 `mainapp` is the [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template) that gets used if one learn **Rust 🦀 and WebAssembly 🕸** from the [docBook](https://rustwasm.github.io/docs/book/).
@@ -25,3 +23,6 @@ After completion i suppose user have to just follow the following steps to use t
 
 ## Help
 Fork it, and see what you can do to help.
+
+**ToDo**
+> #### **Note:**  Just remember, its just for practice purposes, if same kind of stuff is required by you, i have also mentioned the steps to create same structure with your own specifications.
